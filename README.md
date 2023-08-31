@@ -1,4 +1,4 @@
-# 📈 IN Consumer Price Index
+# 🇮🇳 IN Consumer Price Index 📈
 
 ## 📄 Documentation
 
