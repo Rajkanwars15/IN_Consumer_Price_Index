@@ -1,0 +1,19 @@
+cff-version: 1.0.0
+title: IN Consumer Price Index
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Rajkanwar
+    family-names: Singh
+    email: rajkanwars15@outlook.com
+repository-code: 'https://github.com/Rajkanwars15/IN_Consumer_Price_Index'
+abstract: >-
+
+keywords:
+  - Diabetes Prediction
+  - Machine Learning
+  - Data Science
+license: GPL-3.0
+date-released: '2023-09-01'
